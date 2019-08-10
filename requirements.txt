@@ -1,0 +1,5 @@
+numpy==1.15.4
+torch==1.0.0
+Flask==1.0.2
+Flask_Cors==3.0.4
+scikit_learn==0.21.2
